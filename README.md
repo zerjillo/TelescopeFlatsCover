@@ -1,0 +1,1 @@
+This project contains the code and files used in a series of articles published in the Journal of Computational Astronomy and Astronomical Computing aboiut designing and creating astronomical devices.
